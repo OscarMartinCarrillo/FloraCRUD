@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Flora</string>
+    <string name="nombre">nombre</string>
+    <string name="creacion_de_flora"><u>Creación de Flora</u></string>
+</resources>
